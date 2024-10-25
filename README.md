@@ -7,13 +7,21 @@ This Moodle plugin automatically redirects users to a specified page within a co
 - **Configurable Page**: The target page can be set through the plugin's settings.
 
 ## Installation
-1. Download the plugin.
-2. Install it in your Moodle environment.
-3. Configure the target page in the plugin settings under the local section.
+1. Clone the repository or download the ZIP file.
+2. Move the plugin folder to the `moodle/local` directory.
+3. The installation process will happen automatically after a refresh.
 
 ## Usage
-Set the name of the page you want users to be redirected to in the plugin settings.
+Set the name of the page you want users to be redirected to in the plugin settings under `Site administration > Plugins > Local Plugins > Page redirect`.
 
----
+## Contributing
 
-Feel free to contribute!
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project does not have a license specified.
+
+## Contact
+
+For any questions or support, please contact [JuaniV2002](https://github.com/JuaniV2002).
